@@ -1,5 +1,7 @@
 # Custom Fog Machine Controller
 
+![PCB Controller-Wider Medium](https://github.com/user-attachments/assets/32641ce0-60f9-4e93-8398-fa4c99e41ccc)
+
 This folder contains all hardware and software resources for building a custom controller to operate an off-the-shelf fog machine via Arduino:
 
 - **PCB/** – Circuit board files (Gerbers, BOM, etc.).
